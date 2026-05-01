@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PinCodeGeneratorTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fcac386da23b726bba4dd31997d21e972a2514d8")]
 [assembly: System.Reflection.AssemblyProductAttribute("PinCodeGeneratorTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PinCodeGeneratorTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
